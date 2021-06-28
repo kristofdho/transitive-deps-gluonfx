@@ -1,0 +1,6 @@
+[
+  {
+    "name": "org.example.RTDep",
+    "methods": [{"name":  "run", "parameterTypes":  []}]
+  }
+]
